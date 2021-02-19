@@ -1,0 +1,217 @@
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background-color: rgba(41, 41, 41);
+    background-image: url(Images/Background.jpg);
+    height: 710px;
+}
+
+.TopHead {
+    list-style: none;
+    color: white;
+    font-family: 'Calibri';
+    text-align: right;
+    margin: 5px 0 0 0;
+    font-size: 40px;
+    line-height: 65px;
+}
+
+.TopBar {
+    background-color: rgba(162, 195, 255, 0.856);
+    height: 80px;
+}
+
+.Game {
+    color: white;
+    font-family: "Calibri";
+    font-size: 40px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-right: 47%;
+    margin-left: 47%;
+    }
+
+.Game:hover {
+    background: rgba(255, 255, 255, 0.13);
+    border-radius: 10px;
+}
+
+.HomeHead {
+    color: white;
+    font-family: 'Calibri';
+    font-size: 60px;
+    text-align: center;
+    margin-top: 100px; 
+}
+
+.SectionOne {
+    border-bottom-style: ridge;
+    border-color: rgba(162, 195, 255, 0.561);
+    height: 300px;
+    text-align: center;
+}
+
+.SectionTwo {
+    border-bottom-style: ridge;
+    border-color: rgba(162, 195, 255, 0.561);
+    height: 470px;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    padding-right: 7%;
+    margin: 2px 0 0;
+    color: white;
+}
+
+li:hover {
+    color: rgb(162, 195, 255);
+}
+
+.Info {
+    text-align: center;
+    color: white;
+    font-family: 'Calibri';
+    font-size: 40px;
+    margin-top: 200px;
+}
+
+.InfoT {
+    text-align: center;
+    font-weight: lighter;
+    color: white;
+    font-family: 'Calibri';
+    font-size: 30px;
+
+}
+
+.HomeBt {
+    color: white;
+    font-family: "Calibri";
+    font-size: 40px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-right: 47%;
+    margin-left: 47%;
+}
+
+.HomeBt:hover {
+    color: rgb(162, 195, 255);
+    background-color: white;
+    border-radius: 10px;
+}
+
+.GamesBt {
+    color: white;
+    font-family: "Calibri";
+    font-size: 40px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-right: 47%;
+    margin-left: 47%;
+}
+
+.GamesBt:hover {
+    color: rgb(162, 195, 255);
+    background-color: white;
+    border-radius: 10px;
+}
+
+.ContactBt {
+    color: white;
+    font-family: "Calibri";
+    font-size: 40px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-right: 47%;
+    margin-left: 47%;
+}
+
+.ContactBt:hover {
+    color: rgb(162, 195, 255);
+    background-color: white;
+    border-radius: 10px;
+}
+
+.DownHead {
+    list-style: none;
+    color: white;
+    font-family: 'Calibri';
+    text-align: center;
+    margin: 10px 0 0 0;
+    font-size: 30px;
+    line-height: 80px;
+}
+
+.HomeBtSecond {
+    color: white;
+    font-family: "Calibri";
+    font-size: 40px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-right: 47%;
+    margin-left: 47%;
+}
+
+.HomeBtSecond:hover {
+    color: rgb(162, 195, 255);
+    background-color: white;
+    border-radius: 10px;
+}
+
+.GamesBtSecond {
+    color: white;
+    font-family: "Calibri";
+    font-size: 40px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-right: 47%;
+    margin-left: 47%;
+}
+
+.GamesBtSecond:hover {
+    color: rgb(162, 195, 255);
+    background-color: white;
+    border-radius: 10px;
+}
+
+.ContactBtSecond {
+    color: white;
+    font-family: "Calibri";
+    font-size: 40px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-right: 47%;
+    margin-left: 47%;
+}
+
+.ContactBtSecond:hover {
+    color: rgb(162, 195, 255);
+    background-color: white;
+    border-radius: 10px;
+}
+
+.InfoPicture {
+    background-color: rgba(255, 255, 255, 0.61);
+    display: flex;
+    border-radius: 50%;
+    margin-left: 46%;
+}
+
+.Footer {
+    color: white;
+}
